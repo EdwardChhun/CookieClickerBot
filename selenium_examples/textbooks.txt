@@ -1,0 +1,11 @@
+Textbook 1: Becker, K.; Becker, M.; Schwarz, J.H. (2006). String Theory and M-Theory: A Modern Introduction. Cambridge University Press. ISBN 978-0521860697.
+Textbook 2: Blumenhagen, R.; Lüst, D.; Theisen, S. (2012). Basic Concepts of String Theory. Springer. ISBN 978-3642294969.
+Textbook 3: Green, Michael; Schwarz, John; Witten, Edward (2012). Superstring theory. Vol. 1: Introduction. Cambridge University Press. ISBN 978-1107029118.
+Textbook 4: Green, Michael; Schwarz, John; Witten, Edward (2012). Superstring theory. Vol. 2: Loop amplitudes, anomalies and phenomenology. Cambridge University Press. ISBN 978-1107029132.
+Textbook 5: Ibáñez, L.E.; Uranga, A.M. (2012). String Theory and Particle Physics: An Introduction to String Phenomenology. Cambridge University Press. ISBN 978-0521517522.
+Textbook 6: Kiritsis, E. (2019). String Theory in a Nutshell. Princeton University Press. ISBN 978-0691155791.
+Textbook 7: Ortín, T. (2015). Gravity and Strings. Cambridge University Press. ISBN 978-0521768139.
+Textbook 8: Polchinski, Joseph (1998). String Theory Vol. 1: An Introduction to the Bosonic String. Cambridge University Press. ISBN 978-0-521-63303-1.
+Textbook 9: Polchinski, Joseph (1998). String Theory Vol. 2: Superstring Theory and Beyond. Cambridge University Press. ISBN 978-0-521-63304-8.
+Textbook 10: West, P. (2012). Introduction to Strings and Branes. Cambridge University Press. ISBN 978-0521817479.
+Textbook 11: Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9.
