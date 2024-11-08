@@ -70,4 +70,12 @@ When installed, to run the program, do
 python YOUR_PYTHON_SCRIPT.py
 ```
 
+## 4. Install tools
+
+❗You will need ChromeDriver for this tutorial, if you don't have it installed, just go to this website, and paste the download link onto your search bar
+[https://googlechromelabs.github.io/chrome-for-testing/](https://googlechromelabs.github.io/chrome-for-testing/)
+
+If you want to make your web scraping life easier try out this, helps with grabbing XPATH/Locators elements faster
+[https://selectorshub.com/selectorshub/](https://selectorshub.com/selectorshub/)
+
 P.S. If your code editor is still showing dependency issues, change your interpreter to the virtual environment you created, ignore this if your imports are working fine :)
